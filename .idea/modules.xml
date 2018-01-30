@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PhantomReminderApp.iml" filepath="$PROJECT_DIR$/.idea/PhantomReminderApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhantomReminderApp.iml" filepath="$PROJECT_DIR$/PhantomReminderApp.iml" />
+      <module fileurl="file://C:\Users\u1761249\AndroidStudioProjects\PhantomReminderApp\.idea\PhantomReminderApp.iml" filepath="C:\Users\u1761249\AndroidStudioProjects\PhantomReminderApp\.idea\PhantomReminderApp.iml" />
       <module fileurl="file://C:\Users\u1761249\AndroidStudioProjects\PhantomReminderApp\PhantomReminderApp.iml" filepath="C:\Users\u1761249\AndroidStudioProjects\PhantomReminderApp\PhantomReminderApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\u1761249\AndroidStudioProjects\PhantomReminderApp\app\app.iml" filepath="C:\Users\u1761249\AndroidStudioProjects\PhantomReminderApp\app\app.iml" />
     </modules>
   </component>
 </project>
